@@ -51,6 +51,4 @@ An interactive data visualization tool built with Streamlit that enables users t
 
 (Add screenshots of the app's UI here, if available.)
 
-## License
 
-This project is licensed under the MIT License.
